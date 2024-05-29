@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <title>Dokumentvalg</title>
+</head>
+<body>
+    <h1>Vælg et dokument:</h1>
+    <ul>
+        <li><a href="https://example.com/dokument1.pdf" target="_blank">Dokument 1</a></li>
+        <li><a href="https://example.com/dokument2.pdf" target="_blank">Dokument 2</a></li>
+        <li><a href="https://example.com/dokument3.pdf" target="_blank">Dokument 3</a></li>
+    </ul>
+</body>
+</html>
